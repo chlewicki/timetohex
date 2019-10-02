@@ -8,6 +8,7 @@ body{
 	display: -webkit-box;
   	display: -ms-flexbox;
   	display: flex;
+	transition: all .3s ease-in-out;
 }
 #clock{
 	font-size: 60px;
